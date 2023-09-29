@@ -1,0 +1,2 @@
+# somaPyParser
+parse log files
